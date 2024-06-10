@@ -17,7 +17,7 @@ This project analyzes air quality in Delhi by examining the concentrations of va
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/delhi_aqi_analysis.git
+    git clone https://github.com/saravana999/shadow Fox.git
     cd delhi_aqi_analysis
     ```
 
