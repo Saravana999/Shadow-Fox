@@ -1,0 +1,21 @@
+# Climate Analysis Project
+
+This project aims to analyze climatic patterns based on geographical coordinates and seasonal fluctuations. The analysis includes exploring spatial variations in key climatic parameters (such as temperature and precipitation) and understanding the seasonal impact on various environmental factors.
+
+## Project Structure
+
+- `data/`: Contains the dataset used for the analysis.
+- `notebooks/`: Jupyter notebook with the complete analysis.
+- `images/`: Folder for storing images generated from the analysis.
+- `README.md`: Project overview and instructions.
+- `requirements.txt`: List of Python packages required to run the notebook.
+
+## Requirements
+
+- Python 3.7+
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+
